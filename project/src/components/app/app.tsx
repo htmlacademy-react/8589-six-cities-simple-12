@@ -1,4 +1,4 @@
-import HomePage from '../../pages/homepage/main';
+import HomePage from '../../pages/homepage/homepage';
 
 const Setting = {
   placeCount: 108,
